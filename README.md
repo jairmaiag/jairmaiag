@@ -22,39 +22,39 @@ Java, Contabilidade, Clipper, Visual Fox Pro
  Inglês - intermediário  
 
 * **Experiências Profissionais**  
- Freelancer - Remoto  
+ __Freelancer - Remoto__  
  De: 06/10/2021  
  Desenvolvimento de sistemas utilizando tecnologia Java EE Versão 8, Spring, AngularJS, NodeJS e Postgres. Dentre outros sistemas utilizando Spring boot, Angular 4 e JSF.  
  
-   Altimus SA - Remoto  
+   __Altimus SA - Remoto__  
  De: 29/03/2021 A 05/10/2021  
  Manutenção de sistema de publicação de anúncios em portais voltado ao mercado de venda de automóveis, como, Mercado Livre, Facebook Shops, utilizando tecnologia Java EE Versão 6, Postgres e MySQL.  
  
-   Freelancer - Remoto  
+   __Freelancer - Remoto__  
  De: 02/03/2020 A 28/03/2021  
  Desenvolvimento de sistemas utilizando tecnologia Java EE Versão 8, Spring, AngularJS, NodeJS e Postgres. Dentre outros sistemas utilizando Spring boot, Angular 4 e JSF.   
 	
-  Vixteam Sa  
+  __Vixteam Sa__  
 De: 02/07/2018 a 02/03/2020  
 Desenvolvimento e manutenção em sistemas internos da Petrobras utilizando tecnologia Java EE Versão 8, Spring, Angularjs e banco Oracle. Dentre outros sistemas utilizando Spring boot, Angular 4, JSF e NodeJs.   
 	
-  Thomson Reuters  
+  __Thomson Reuters__  
 De: 10/04/2015 a 30/06/2018  
 Análise das demandas de correção para implementação de melhorias no sistema Mastersaf DFe V3 - Emissão de NFe, NFs utilizando Java, Hibernate, Web server,  JQuery (UI), Spring Framework, JPA, Groover, Git Hub e Maven. Utilizando banco de dados Oracle 12c, MS-SQL Server 2014 e PostgreSQL 9.0  
 
-  Thomson Reuters  
+  __Thomson Reuters__  
 De: 01/04/2014 a 09/04/2015  
 Análise dos chamados ao produto Mastersaf Smart, bem como a leitura do fonte para verificação das regras de negócio para confirmar se o produto está de acordo com as regras da legislação vigente para os módulos fiscais do sistema, como SPED, GIA e várias outras obrigações legais e localização de erros e indicação de correções.  
 
-  Consórcio Construtor Belo Monte (Chefe de T.I.)  
+  __Consórcio Construtor Belo Monte (Chefe de T.I.)__  
 De: 20/09/2011 a 14/07/2014  
 Coordenação de equipe para configuração de máquinas para usuários finais e suporte. Gerenciamento de equipamentos e coordenação de infraestrutura como montagem de sala e máquinas.  
 
-  Totall Sistema LTDA  
+  __Totall Sistema LTDA__  
 De: 27/07/2009 01/08/2011  
 Manutenção em sistema de frente de loja (Checkout) feito em Visual FoxPro.  
 
-  Outras empresas:  
+  __Outras empresas:__  
 CS-Consoft LTDA (Desenvolvedor),  
 NDR Empreendimentos Florestais LTDA (Desenvolvedor),  
 Softec Informática (Desenvolvedor),  
