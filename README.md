@@ -1,4 +1,20 @@
 # Desenvolvedor de sistemas
+<a href="https://www.linkedin.com/in/jair-diniz/" alt="linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white">
+</a>
+<a href="https://web.whatsapp.com/send?phone=5547984246256&text=Oi%20Jair,%20tudo%20bem?%20Podemos%20conversar?" alt="WhatsApp" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="mailto:jairmaiag@gmail.com" alt="gmail" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jairmaiag@gmail.com" />
+</a>
+<a href="mailto:jairmaiay@yahoo.com.br" alt="yahoo" target="_blank">
+<img src="https://img.shields.io/badge/-Yahoo-1c3e5c?style=flat&labelColor=1c3e5c&logo=yahoo&logoColor=white&link=mailto:jairmaiay@yahoo.com.br" />
+</a>
+<a href="https://github.com/jairmaiag" alt="github" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat&logo=GitHub&logoColor=white">
+</a>
+
 * **Contatos**  
 	Email: [jairmaiag@gmail.com](jairmaiag@gmail.com), [jairmaiay@yahoo.com.br](jairmaiay@yahoo.com.br)  
 	Git: [https://github.com/jairmaiag](https://github.com/jairmaiag)  
