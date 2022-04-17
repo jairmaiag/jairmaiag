@@ -13,23 +13,36 @@
 </a>
 <a href="https://github.com/jairmaiag" alt="github" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000000?&style=flat&logo=GitHub&logoColor=white">
-</a>  
-<a href="https://html.spec.whatwg.org/multipage/" alt="html5" target="_blank">
-<img src="https://img.shields.io/badge/HTML5-d84924?&logo=HTML5&logoColor=white&style=flat" />
-</a>
-<a href="https://www.w3c.br/Cursos/CursoCSS3/" alt="css" target="_blank">
-<img src="https://img.shields.io/badge/CSS3-327fff?&logo=CSS3&logoColor=FFFF&style=flat" />
-</a>
-<a href="https://www.w3.org/standards/webdesign/script" alt="javascript" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-f0c13d?&logo=javascript&logoColor=white&style=flat"/>
-</a>
-<a href="https://getbootstrap.com.br/docs/4.1/getting-started/introduction/" alt="bootstrap" target="_blank">
-<img src="https://img.shields.io/badge/BootStrap-563d7c?&logo=bootstrap&logoColor=white&style=flat" alt="bootstrap"/>
-</a>
-<a href="https://jquery.com/" alt="jquary" target="_blank">
-<img src="https://img.shields.io/badge/-Jquery-327fff?&logo=jquery&logoColor=FFFF&style=flat" alt="jquery"/>
 </a>
 
+![Java](https://img.shields.io/badge/Java-007396?&logo=java&logoColor=FFFFFF&style=flat)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?&logo=Hibernate&logoColor=FFFFFF&style=flat)
+![Maven](https://img.shields.io/badge/Maven-C71A36?&logo=Apache+Maven&logoColor=FFFFFF&style=flat)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=FFFFFF&style=flat)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?&logo=spring-boot&logoColor=FFFFFF&style=flat)
+![TomCat](https://img.shields.io/badge/Tomcat-222222?&logo=Apache+Tomcat&logoColor=F8DC75&style=flat)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?&logo=Eclipse+IDE&logoColor=F8DC75&style=flat)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&logo=Visual+Studio+Code&logoColor=FFFFFF&style=flat)
+![Html](https://img.shields.io/badge/HTML5-d84924?&logo=HTML5&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?&logo=JavaScript&logoColor=F7DF1E&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&logo=TypeScript&logoColor=FFFFFF&style=flat)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?&logo=jQuery&logoColor=FFFFFF&style=flat)
+![JSON](https://img.shields.io/badge/json-000000?&logo=JSON&logoColor=FFFFFF&style=flat)
+![NodeJs](https://img.shields.io/badge/Node.js-339933?&logo=nodedotjs&logoColor=FFFFFF&style=flat)
+![NPM](https://img.shields.io/badge/NPM-CB3837?&logo=npm&logoColor=FFFFFF&style=flat)
+![Express](https://img.shields.io/badge/Express-000000?&logo=Express&logoColor=FFFFFF&style=flat)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?&logo=Liquibase&logoColor=FFFFFF&style=flat)
+![Dart](https://img.shields.io/badge/Dart-0175C2?&logo=Dart&logoColor=FFFFFF&style=flat)
+![AngularJs](https://img.shields.io/badge/AngularJS-E23237?&logo=AngularJS&logoColor=FFFFFF&style=flat)
+![Angular](https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=FFFFFF&style=flat)
+![Vue.js](https://img.shields.io/badge/VUE.JS-222222?&logo=vuedotjs&logoColor=4FC08D&style=flat)
+![ReactJS](https://img.shields.io/badge/React.JS-222222?&logo=react&logoColor=61DAFB&style=flat)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?&logo=microsoft-sql-server&logoColor=FFFFFF&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?&logo=PostgreSql&logoColor=FFFFFF&style=flat)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=FFFFFF&style=flat)
+![MySQL](https://img.shields.io/badge/MySql-4479A1?&logo=MySQL&logoColor=FFFFFF&style=flat)
+![Linux](https://img.shields.io/badge/Linux-222222?&logo=Linux&logoColor=FCC624&style=flat)
+  
 * **Contatos**  
 	Email: [jairmaiag@gmail.com](jairmaiag@gmail.com), [jairmaiay@yahoo.com.br](jairmaiay@yahoo.com.br)  
 	Git: [https://github.com/jairmaiag](https://github.com/jairmaiag)  
