@@ -8,10 +8,7 @@
 
 * **Resumo**   
 	Desde 1995 atuando na área de informática, iniciando como instrutor e em seguida como desenvolvedor de sistemas, aprendendo novas tecnologias, bem como um bom relacionamento com meus colegas de trabalho.
->[!NOTE]
->
->Mais um teste
->
+
 * **Formação**  
 1990 - 1992 Instituto Deodoro de Mendonça - Belém - PA  
 Java, Contabilidade, Clipper, Visual Fox Pro
