@@ -11,11 +11,10 @@
 <a href="mailto:jairmaiay@yahoo.com.br" alt="yahoo" target="_blank">
 <img src="https://img.shields.io/badge/-Yahoo-1c3e5c?style=flat&labelColor=1c3e5c&logo=yahoo&logoColor=white&link=mailto:jairmaiay@yahoo.com.br" />
 </a>
-![GitHub](https://img.shields.io/badge/GitHub-000000?&style=flat&logo=GitHub&logoColor=white)
 <a href="https://github.com/jairmaiag" alt="github" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000000?&style=flat&logo=GitHub&logoColor=white">
 </a>  
-
+U+000D
 <a href="https://html.spec.whatwg.org/multipage/" alt="html5" target="_blank">
 <img src="https://img.shields.io/badge/HTML5-d84924?&logo=HTML5&logoColor=white&style=flat" />
 </a>
