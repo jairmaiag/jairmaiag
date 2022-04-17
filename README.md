@@ -13,8 +13,8 @@
 </a>
 <a href="https://github.com/jairmaiag" alt="github" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000000?&style=flat&logo=GitHub&logoColor=white">
-</a>  
-(U+000D)
+</a>
+------------
 <a href="https://html.spec.whatwg.org/multipage/" alt="html5" target="_blank">
 <img src="https://img.shields.io/badge/HTML5-d84924?&logo=HTML5&logoColor=white&style=flat" />
 </a>
